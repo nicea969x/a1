@@ -1,0 +1,114 @@
+{
+}{
+}{
+    "stations": [
+        {
+            "id": "1",
+            "name": "CNN TÜRK HD-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/c0Na7E1EVk8",
+                
+            ]
+        },
+        {
+            "id": "2",
+            "name": "HABERTÜRK-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/deKH0pQ7-rg",
+            ]
+        },
+        {
+            "id": "3",
+           "name": "NTV ",
+            "logo": "",
+            "url": [
+                "https://youtu.be/XEJM4Hcgd3M",
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Tele1",
+            "logo": "",
+            "url": [
+                "https://youtu.be/-rIX9FS8Z98",
+            ]
+        },
+        {
+            "id": "5",
+           "name": "ULUSAL KANAL-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/Z41QBZEULfQ",
+            ]
+        },
+        {
+            "id": "7",
+            "name": "A HABER-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/VH47nL7iHLg",
+            ]
+        },
+        {
+            "id": "8",
+            "name": "tv100",
+            "logo": "",
+            "url": [
+                "https://youtu.be/M0eAO5YMDXQ",
+            ]
+        },
+        {
+            "id": "9",
+            "name": "A SPOR-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/ux6QKb4DBAM",
+            ]
+        },
+        {
+            "id": "10",
+           "name": "TVNET HD-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/muVNFJKDEn8",
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Halktv ",
+            "logo": "",
+            "url": [
+                "https://youtu.be/7KhMGq1o5bU",
+            ]
+        },
+        {
+            "id": "12",
+           "name": "Kral Pop Radyo-TR",
+            "logo": "",
+            "url": [
+                "https://youtu.be/o5WVg8lC7ig",
+            ]
+        },
+        {
+            "id": "13",
+           "name": "Kral TV",
+            "logo": "",
+            "url": [
+                "https://youtu.be/88tf0H1ycDU",
+            ]
+        },
+                {
+            "id": "14",
+            "name": "ULUSAL",
+            "logo": "",
+            "url": [
+                "https://www.yilmaztv.com/get.php?id=18830&p=d8c4fb035c547f2729214b5a982f4af5&type=m3u",
+            ]
+        },
+       
+            ]
+        }
+    ]
+}
